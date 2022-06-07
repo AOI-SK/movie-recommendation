@@ -1,9 +1,9 @@
 # movie-recommendation
 
 **#install library**
-pip install streamlit
-pip install requests
-pip install pickle
+ streamlit
+ requests
+ pickle
 
 **#run app**
 in terminal
